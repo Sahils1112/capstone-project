@@ -1,4 +1,4 @@
-# Capstone-Project-2-AWS-
+# Capstone-Project-AWS-
 
 ![Screenshot (479)](https://github.com/ShivamBorban/Capstone-Project-2-AWS-/assets/114582670/94a12199-68c0-4ff6-81bc-335b453f3508)
 ![Screenshot (480)](https://github.com/ShivamBorban/Capstone-Project-2-AWS-/assets/114582670/80d22b14-115e-44b0-834d-687da32fb777)
